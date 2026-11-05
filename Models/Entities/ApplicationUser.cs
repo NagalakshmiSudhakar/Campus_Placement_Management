@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using CampusPlacementManagement.Models.Enums;
+using Microsoft.AspNetCore.Identity;
 
 namespace CampusPlacementManagement.Models.Entities
 {

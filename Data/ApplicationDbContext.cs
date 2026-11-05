@@ -16,6 +16,8 @@ namespace CampusPlacementManagement.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+
+            // Entity configurations will be added here later.
         }
     }
 }
