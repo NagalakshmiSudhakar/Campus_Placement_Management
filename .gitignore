@@ -1,0 +1,53 @@
+﻿
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio generated files
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# .NET generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+secrets.json
+
+# IDE folders
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
